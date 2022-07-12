@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roshansingh22
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in data science and full stack developer
+- 🌱 I’m currently learning development
 - 💞️ I’m looking to collaborate on python
 
 
