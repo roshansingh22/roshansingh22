@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roshansingh22
 - 👀 I’m interested in data science and full stack developer
 - 🌱 I’m currently learning development
-- 💞️ I’m looking to collaborate on python, Full stack developer
+- 💞️ I’m looking to collaborate on python, html, css, JavaScript
 
 
 <!---
